@@ -17,7 +17,3 @@ Stock Market Simulator is a Python application that lets users simulate buying a
 2. **Navigate the Menu:** Use the interactive menu to buy or sell stocks, view your portfolio, or exit the simulator.
 3. **Perform Transactions:** Enter the stock symbol and quantity for buying or selling stocks.
 4. **View Portfolio:** Check the current value of your stocks and cash balance.
-
-## License
-
-This project is open-source and available under the MIT License.
